@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DC8232D5-B804-4766-8840-C88C50EAD01E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DBapplication</RootNamespace>
+    <AssemblyName>DBapplication</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcceptVolunteersToJoinProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcceptVolunteersToJoinProject.Designer.cs">
+      <DependentUpon>AcceptVolunteersToJoinProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ActiveDonors.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ActiveDonors.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Addproject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Addproject.Designer.cs">
+      <DependentUpon>Addproject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRecipient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRecipient.Designer.cs">
+      <DependentUpon>AddRecipient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignEmployeeToInventorySites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignEmployeeToInventorySites.Designer.cs">
+      <DependentUpon>AssignEmployeeToInventorySites.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignProjectManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignProjectManager.Designer.cs">
+      <DependentUpon>AssignProjectManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePass.Designer.cs">
+      <DependentUpon>ChangePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CharityDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CharityDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CharityDBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CharityDBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CharityDBDataSet2.cs">
+      <DependentUpon>CharityDBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CharityDBDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CharityDBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CheckRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckRequests.Designer.cs">
+      <DependentUpon>CheckRequests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseProjectFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseProjectFunc.Designer.cs">
+      <DependentUpon>ChooseProjectFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContactAffiliates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContactAffiliates.Designer.cs">
+      <DependentUpon>ContactAffiliates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContactRecipients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContactRecipients.Designer.cs">
+      <DependentUpon>ContactRecipients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller.cs" />
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.cs">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetRecipients.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetRecipients.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DBManager.cs" />
+    <Compile Include="DonateMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonateMoney.Designer.cs">
+      <DependentUpon>DonateMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeFunctionalities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeFunctionalities.Designer.cs">
+      <DependentUpon>EmployeeFunctionalities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeUpdateInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeUpdateInfo.Designer.cs">
+      <DependentUpon>EmployeeUpdateInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterEmployeeUsername.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterEmployeeUsername.Designer.cs">
+      <DependentUpon>EnterEmployeeUsername.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FireEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FireEmployee.Designer.cs">
+      <DependentUpon>FireEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeadFunctionalities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeadFunctionalities.Designer.cs">
+      <DependentUpon>HeadFunctionalities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HireEmloyee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HireEmloyee.Designer.cs">
+      <DependentUpon>HireEmloyee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inactivedonors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inactivedonors.Designer.cs">
+      <DependentUpon>inactivedonors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inventorysite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inventorysite.Designer.cs">
+      <DependentUpon>inventorysite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JoinProjectRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JoinProjectRequest.Designer.cs">
+      <DependentUpon>JoinProjectRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageProjects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageProjects.Designer.cs">
+      <DependentUpon>ManageProjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordHash.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="projectAllocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="projectAllocation.Designer.cs">
+      <DependentUpon>projectAllocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="projectreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="projectreport.Designer.cs">
+      <DependentUpon>projectreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RedeemRewards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RedeemRewards.Designer.cs">
+      <DependentUpon>RedeemRewards.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendRequest.Designer.cs">
+      <DependentUpon>SendRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignIn.Designer.cs">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="StoredProcedures.cs" />
+    <Compile Include="ViewEmployeeRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewEmployeeRequests.Designer.cs">
+      <DependentUpon>ViewEmployeeRequests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VolunteerDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VolunteerDetails.Designer.cs">
+      <DependentUpon>VolunteerDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VolunteerFunctionalities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VolunteerFunctionalities.Designer.cs">
+      <DependentUpon>VolunteerFunctionalities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VolUpdateInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VolUpdateInfo.Designer.cs">
+      <DependentUpon>VolUpdateInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AcceptVolunteersToJoinProject.resx">
+      <DependentUpon>AcceptVolunteersToJoinProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Addproject.resx">
+      <DependentUpon>Addproject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRecipient.resx">
+      <DependentUpon>AddRecipient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignEmployeeToInventorySites.resx">
+      <DependentUpon>AssignEmployeeToInventorySites.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignProjectManager.resx">
+      <DependentUpon>AssignProjectManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePass.resx">
+      <DependentUpon>ChangePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckRequests.resx">
+      <DependentUpon>CheckRequests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseProjectFunc.resx">
+      <DependentUpon>ChooseProjectFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactAffiliates.resx">
+      <DependentUpon>ContactAffiliates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactRecipients.resx">
+      <DependentUpon>ContactRecipients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonateMoney.resx">
+      <DependentUpon>DonateMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeFunctionalities.resx">
+      <DependentUpon>EmployeeFunctionalities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeUpdateInfo.resx">
+      <DependentUpon>EmployeeUpdateInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterEmployeeUsername.resx">
+      <DependentUpon>EnterEmployeeUsername.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FireEmployee.resx">
+      <DependentUpon>FireEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeadFunctionalities.resx">
+      <DependentUpon>HeadFunctionalities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HireEmloyee.resx">
+      <DependentUpon>HireEmloyee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inactivedonors.resx">
+      <DependentUpon>inactivedonors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inventorysite.resx">
+      <DependentUpon>inventorysite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JoinProjectRequest.resx">
+      <DependentUpon>JoinProjectRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageProjects.resx">
+      <DependentUpon>ManageProjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="projectAllocation.resx">
+      <DependentUpon>projectAllocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="projectreport.resx">
+      <DependentUpon>projectreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RedeemRewards.resx">
+      <DependentUpon>RedeemRewards.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.rdlc" />
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="SendRequest.resx">
+      <DependentUpon>SendRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignIn.resx">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewEmployeeRequests.resx">
+      <DependentUpon>ViewEmployeeRequests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VolunteerDetails.resx">
+      <DependentUpon>VolunteerDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VolunteerFunctionalities.resx">
+      <DependentUpon>VolunteerFunctionalities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VolUpdateInfo.resx">
+      <DependentUpon>VolUpdateInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ActiveDonors.xsc">
+      <DependentUpon>ActiveDonors.xsd</DependentUpon>
+    </None>
+    <None Include="ActiveDonors.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ActiveDonors.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ActiveDonors.xss">
+      <DependentUpon>ActiveDonors.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="CharityDBDataSet.xsc">
+      <DependentUpon>CharityDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CharityDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CharityDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CharityDBDataSet.xss">
+      <DependentUpon>CharityDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CharityDBDataSet1.xsc">
+      <DependentUpon>CharityDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CharityDBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CharityDBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CharityDBDataSet1.xss">
+      <DependentUpon>CharityDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CharityDBDataSet2.xsc">
+      <DependentUpon>CharityDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="CharityDBDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CharityDBDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CharityDBDataSet2.xss">
+      <DependentUpon>CharityDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetRecipients.xsc">
+      <DependentUpon>DataSetRecipients.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetRecipients.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetRecipients.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetRecipients.xss">
+      <DependentUpon>DataSetRecipients.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quote.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quote2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hope.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volbackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volunteer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volunteer1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\head.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cool-background.png" />
+    <None Include="Resources\employee.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,450 @@
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddProject.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AdminLogin.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Provided_Functionalities.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.RetrieveProjects.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewEmployees.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.VolunteerDetails.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SignIn.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.HeadFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.HireEmloyee.resources
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.HeadFunctionalities.resources
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.HireEmloyee.resources
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SignIn.resources
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.VolunteerDetails.resources
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.FireEmployee.resources
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Addproject.resources
+C:\Users\Sherif Hatem\Downloads\Charity\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.projectreport.resources
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Addproject.resources
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.FireEmployee.resources
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.HeadFunctionalities.resources
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.HireEmloyee.resources
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.projectreport.resources
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SignIn.resources
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.VolunteerDetails.resources
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.VolunteerFunctionalities.resources
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Sherif Hatem\Desktop\db_backup\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Addproject.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.FireEmployee.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.HeadFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.HireEmloyee.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.projectreport.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SignIn.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.VolunteerDetails.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.VolunteerFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SendRequest.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ChangePass.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.RedeemRewards.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.CheckRequests.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final0312\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.EmployeeFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Addproject.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ChangePass.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.CheckRequests.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.EmployeeFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.FireEmployee.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.HeadFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.HireEmloyee.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.projectreport.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.RedeemRewards.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SendRequest.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SignIn.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.VolunteerDetails.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.VolunteerFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DonateMoney.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AcceptVolunteersToJoinProject.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final1012\TheHopeCharityDB\Code\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewEmployeeRequests.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.AcceptVolunteersToJoinProject.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Addproject.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ChangePass.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.CheckRequests.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.DonateMoney.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EmployeeFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.FireEmployee.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HeadFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HireEmloyee.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.projectreport.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.RedeemRewards.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SendRequest.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SignIn.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ViewEmployeeRequests.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerDetails.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final1812\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ContactAffiliates.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.AcceptVolunteersToJoinProject.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Addproject.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ChangePass.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.CheckRequests.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ContactAffiliates.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.DonateMoney.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EmployeeFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.FireEmployee.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HeadFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HireEmloyee.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.projectreport.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.RedeemRewards.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SendRequest.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SignIn.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ViewEmployeeRequests.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerDetails.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolUpdateInfo.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EmployeeUpdateInfo.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.projectAllocation.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.inventorysite.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2112(1)\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.JoinProjectRequest.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.AcceptVolunteersToJoinProject.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Addproject.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ChangePass.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.CheckRequests.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ContactAffiliates.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.DonateMoney.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EmployeeFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EmployeeUpdateInfo.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.FireEmployee.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HeadFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HireEmloyee.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.inventorysite.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.JoinProjectRequest.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.projectAllocation.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.projectreport.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.RedeemRewards.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SendRequest.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SignIn.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ViewEmployeeRequests.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerDetails.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolUpdateInfo.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ContactRecipients.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.inactivedonors.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\stdole.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.CopyComplete
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\bin\Debug\stdole.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.AcceptVolunteersToJoinProject.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Addproject.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ChangePass.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.CheckRequests.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ContactAffiliates.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ContactRecipients.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.DonateMoney.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EmployeeFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EmployeeUpdateInfo.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.FireEmployee.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HeadFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HireEmloyee.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.inactivedonors.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.inventorysite.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.JoinProjectRequest.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.projectAllocation.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.projectreport.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.RedeemRewards.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SendRequest.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SignIn.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ViewEmployeeRequests.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerDetails.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolUpdateInfo.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.CopyComplete
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\Final2312\Final2312\Fina2112\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Form1.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\bin\Debug\stdole.dll
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.AcceptVolunteersToJoinProject.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Addproject.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ChangePass.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.CheckRequests.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ContactAffiliates.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ContactRecipients.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.DonateMoney.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EmployeeFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EmployeeUpdateInfo.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.FireEmployee.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Form1.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HeadFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HireEmloyee.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.inactivedonors.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.inventorysite.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.JoinProjectRequest.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.projectAllocation.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.projectreport.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.RedeemRewards.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SendRequest.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SignIn.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ViewEmployeeRequests.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerDetails.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerFunctionalities.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolUpdateInfo.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.CopyComplete
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Rana.DESKTOP-NFHIRRT\Desktop\Uni\DataBase Project\DataBase2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\stdole.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.AcceptVolunteersToJoinProject.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Addproject.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ChangePass.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.CheckRequests.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ContactAffiliates.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ContactRecipients.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.DonateMoney.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EmployeeFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EmployeeUpdateInfo.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.FireEmployee.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Form1.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HireEmloyee.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.inactivedonors.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.inventorysite.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.JoinProjectRequest.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.projectAllocation.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.projectreport.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.RedeemRewards.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SendRequest.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.SignIn.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ViewEmployeeRequests.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerDetails.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolunteerFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.VolUpdateInfo.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.csproj.CopyComplete
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\EnvDTE.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.Form2.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ChooseProjectFunc.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.ManageProjects.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.EnterEmployeeUsername.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.HeadFunctionalities.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.AssignEmployeeToInventorySites.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.AssignProjectManager.resources
+C:\Users\husse\OneDrive\Desktop\All Courses\DataBase\DB2412\DB2412\CharityDBInterface\DBapplication\obj\x86\Debug\DBapplication.AddRecipient.resources
